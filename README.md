@@ -7,7 +7,7 @@ Installing
 
     $ cpanm install cloutree
   or
-    # cpan install cloutree  
+    $ cpan install cloutree  
 
 ## Usage
 
