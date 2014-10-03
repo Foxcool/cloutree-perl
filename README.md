@@ -5,11 +5,11 @@ Perl module to upload files to Cloutr.ee CDN
 
 Installing
 
-    $ cpanm install cloutree
+    $ cpanm install WWW::Cloutree
 
     or
 
-    $ cpan install cloutree  
+    $ cpan install WWW::Cloutree  
 
 ## Usage
 
